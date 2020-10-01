@@ -1,4 +1,4 @@
-# Face Recogniton GUI-APP
+# Face Recogniton GUI-APP-amazing project for face recognition
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw)
@@ -9,7 +9,7 @@
 
   - Collect Face Data
   - Build Face Classifier 
-  - Detecte the face
+  - Detect the face
 
 #  New Features!
 
